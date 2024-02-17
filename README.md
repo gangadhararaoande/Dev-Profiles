@@ -1,14 +1,20 @@
 # Dev Profiles
 <br/>
-<div align="center">
-[![Version 1.2.0](https://img.shields.io/badge/Version-1.2.0-orange.svg)](https://github.com/gangadhararaoande/Dev-Profiles/pulls)
-[![Issues](https://img.shields.io/github/issues/gangadhararaoande/Dev-Profiles.svg?style=flat)](https://github.com/gangadhararaoande/Dev-Profiles/issues)
-[![Stars](https://img.shields.io/github/stars/gangadhararaoande/Dev-Profiles.svg?style=flat)](https://github.com/gangadhararaoande/Dev-Profiles/stars)
-[![Forks](https://img.shields.io/github/forks/gangadhararaoande/Dev-Profiles.svg?style=flat)](https://github.com/gangadhararaoande/Dev-Profiles/forks)
-[![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-brightgreen.svg)](https://github.com/gangadhararaoande/Dev-Profiles/pulls)
-[![First Contributors](https://img.shields.io/badge/first-contributors-brightgreen.svg)](https://github.com/gangadhararaoande/Dev-Profiles/pulls)
-![GitHub repo size](https://img.shields.io/github/repo-size/gangadhararaoande/Dev-Profiles)
-</div>
+<p align="center">
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/gangadhararaoande/Dev-Profiles?sort=date&display_name=release&style=flat-square"></a>
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/gangadhararaoande/Dev-Profiles"></a>
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr-closed/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles/releases"><img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/gangadhararaoande/Dev-Profiles/total?style=flat-square"></a>
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles"><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
+  <a href="https://github.com/gangadhararaoande/Dev-Profiles/commits/main"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
+  <a href="https://allcontributors.org"><img alt="GitHub contributors from allcontributors.org" src="https://img.shields.io/github/all-contributors/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
+</p>
+
 <br/>
 <p align="center">
   <a href="https://github.com/gangadhararaoande"><img alt="Github - gangadhararaoande" src="https://img.shields.io/badge/GitHub-gangadhararaoande-181717?style=flat-square&logo=github"></a>
@@ -19,12 +25,21 @@
 **Click on the [link](https://dev-profiles-gangadhararaoande.vercel.app) to see the live site!**
 
 ## Build With
-<div align="center">
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%239B30FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-</div>
+<p align="center">
+  <a href="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  <a href="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  </a>
+  <a href="https://img.shields.io/badge/bootstrap-%239B30FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%239B30FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
+  <a href="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  </a>
+</p>
+
 
 ## Introduction
 
