@@ -7,7 +7,7 @@
 </p>
 <br/>
 <p align="center">
-  <a href="https://github.com/gangadhararaoande"><img alt="Github - gangadhararaoande" src="https://img.shields.io/badge/GitHub-binaryShrey-181717?style=flat-square&logo=github"></a>
+  <a href="https://github.com/gangadhararaoande"><img alt="Github - gangadhararaoande" src="https://img.shields.io/badge/GitHub-gangadhararaoande-181717?style=flat-square&logo=github"></a>
 </p>
 <br/>
 
