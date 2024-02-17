@@ -1,10 +1,14 @@
 # Dev Profiles
 <br/>
-
-<p align="center">
-  <a href="#"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/gangadhararaoande/https%3A%2F%2Fgithub.com%2Fgangadhararaoande%2FDev-Profiles.git"></a>
-  <a href="#"><img alt="PRs" src="https://img.shields.io/badge/PRs-Welcome-3DDC84?style=flat-square"></a>
-</p>
+<div align="center">
+[![Version 1.2.0](https://img.shields.io/badge/Version-1.2.0-orange.svg)](https://github.com/gangadhararaoande/Dev-Profiles/pulls)
+[![Issues](https://img.shields.io/github/issues/gangadhararaoande/Dev-Profiles.svg?style=flat)](https://github.com/gangadhararaoande/Dev-Profiles/issues)
+[![Stars](https://img.shields.io/github/stars/gangadhararaoande/Dev-Profiles.svg?style=flat)](https://github.com/gangadhararaoande/Dev-Profiles/stars)
+[![Forks](https://img.shields.io/github/forks/gangadhararaoande/Dev-Profiles.svg?style=flat)](https://github.com/gangadhararaoande/Dev-Profiles/forks)
+[![PR:s Welcome](https://img.shields.io/badge/PR:s-welcome-brightgreen.svg)](https://github.com/gangadhararaoande/Dev-Profiles/pulls)
+[![First Contributors](https://img.shields.io/badge/first-contributors-brightgreen.svg)](https://github.com/gangadhararaoande/Dev-Profiles/pulls)
+![GitHub repo size](https://img.shields.io/github/repo-size/gangadhararaoande/Dev-Profiles)
+</div>
 <br/>
 <p align="center">
   <a href="https://github.com/gangadhararaoande"><img alt="Github - gangadhararaoande" src="https://img.shields.io/badge/GitHub-gangadhararaoande-181717?style=flat-square&logo=github"></a>
@@ -13,6 +17,14 @@
 
 # [Contribute To This Project](https://github.com/gangadhararaoande/Dev-Profiles/)
 **Click on the [link](https://dev-profiles-gangadhararaoande.vercel.app) to see the live site!**
+
+## Build With
+<div align="center">
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%239B30FF.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+</div>
 
 ## Introduction
 
@@ -38,3 +50,7 @@ Thanks go to these wonderful people:
 <a href="https://github.com/gangadhararaoande/Dev-Profiles/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=gangadhararaoande/Dev-Profiles" />
 </a>
+
+
+
+
