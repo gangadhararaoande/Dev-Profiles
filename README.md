@@ -16,9 +16,6 @@
   <a href="https://github.com/gangadhararaoande/Dev-Profiles/pulls">
     <img alt="Version 1.2.0" src="https://img.shields.io/badge/Version-1.2.0-orange.svg">
   </a>
-  <a href="https://github.com/gangadhararaoande/Dev-Profiles/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/gangadhararaoande/Dev-Profiles.svg?style=flat">
-  </a>
   <a href="https://github.com/gangadhararaoande/Dev-Profiles/pulls">
     <img alt="PR:s Welcome" src="https://img.shields.io/badge/PR:s-welcome-brightgreen.svg">
   </a>
