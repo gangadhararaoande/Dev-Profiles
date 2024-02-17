@@ -24,6 +24,6 @@ Thank you!
 
 Thanks go to these wonderful people:
 
-<a href="">
-  <img src="" />
+<a href="https://github.com/gangadhararaoande/Dev-Profiles/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gangadhararaoande/Dev-Profiles" />
 </a>
