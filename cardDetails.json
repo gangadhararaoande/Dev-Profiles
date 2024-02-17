@@ -3,7 +3,7 @@
       {
         "name": "Your Name",
         "profession": "Your Profession",
-        "Skills": " Your Skills",
+        "skills": " Your Skills",
         "quote": "\"Your favorite quote\"</br> - Said by",
         "twitter": "https://twitter.com",
         "dribbble": "https://dribbble.com",
@@ -12,6 +12,16 @@
         "linkedin": "https://linkedin.com",
         "email": "mailto:youremail@gmail.com"
   
+      },
+        {
+        "name": "Ande Gangadhara Rao",
+        "profession": "Looking for an oppertunity",
+        "Skills": "HTML,CSS,JS",
+        "quote": "\"If, at first, you do not succeed, call it version 1.0.\"</br> - Said by Khayri R.R. Woulfe",
+        "twitter": "https://twitter.com/Gangadhara18Rao",
+        "github": "https://github.com/gangadhararaoande",
+        "linkedin": "https://www.linkedin.com/in/gangadhara-rao-ande/",
+        "email": "mailto:gangadharr18@gmail.com"
       }
     ]
   }
