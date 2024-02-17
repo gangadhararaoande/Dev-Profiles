@@ -1,5 +1,20 @@
 # Dev Profiles
+<br/>
 
+<p align="center">
+  <a href="#"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/gangadhararaoande/https%3A%2F%2Fgithub.com%2Fgangadhararaoande%2FDev-Profiles.git"></a>
+  <a href="#"><img alt="PRs" src="https://img.shields.io/badge/PRs-Welcome-3DDC84?style=flat-square"></a>
+</p>
+<br/>
+<p align="center">
+  <a href="https://github.com/gangadhararaoande"><img alt="Github - gangadhararaoande" src="https://img.shields.io/badge/GitHub-binaryShrey-181717?style=flat-square&logo=github"></a>
+</p>
+<br/>
+ <tr>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/madushadhanushka/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 # [Contribute To This Project](https://github.com/gangadhararaoande/Dev-Profiles/)
 **Click on the [link](https://dev-profiles-gangadhararaoande.vercel.app) to see the live site!**
 
