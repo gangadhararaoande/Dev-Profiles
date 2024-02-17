@@ -184,8 +184,6 @@ git push origin -u your-branch-name
 
 # Acknowledgements🙏
 
-This project is heavily influenced by [Syknapse](https://github.com/Syknapse) Amazing [Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project) project with its fine-tuned tutorial. The project is also an awesome project for first time contributors as well so go ahead and contribute!
-
 - You can **follow me** and get in touch on [LinkedIn](https://www.linkedin.com/in/gangadhara-rao-ande/ "@Gangadhara Rao Ande")
 
 ### HAPPY CONTRIBUTING!🎊
