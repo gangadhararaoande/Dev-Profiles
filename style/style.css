@@ -309,7 +309,9 @@ section {
 .card-details h5 {
     font-size: 15px;
 }
-
+.card-details h6{
+    font-size: 12px;
+}
 .card-details p {
     font-family: 'Tangerine', cursive;
     font-size: 25px;
@@ -517,6 +519,12 @@ footer .lag {
         font-weight: 300;
         margin-left: 1rem;
         margin-right: 1rem;
+    }
+    .card-details h6{
+        font-size: 15px;
+        font-weight: 150px;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
     }
 
     .card-details p {
