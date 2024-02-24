@@ -1,40 +1,31 @@
 # Dev Profiles
-<br/>
 <p align="center">
   <a href="https://github.com/gangadhararaoande/Dev-Profiles/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
   <a href="https://github.com/gangadhararaoande/Dev-Profiles/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
   <a href="https://github.com/gangadhararaoande/Dev-Profiles/watchers"><img alt="GitHub watchers" src="https://img.shields.io/github/watchers/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
   <a href="https://github.com/gangadhararaoande/Dev-Profiles"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
   <a href="https://github.com/gangadhararaoande/Dev-Profiles"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/gangadhararaoande/Dev-Profiles"></a>
-  <a href="https://github.com/gangadhararaoande/Dev-Profiles/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
-  <a href="https://github.com/gangadhararaoande/Dev-Profiles/issues"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr-closed/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
-  <a href="https://github.com/gangadhararaoande/Dev-Profiles"><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
   <a href="https://github.com/gangadhararaoande/Dev-Profiles/commits/main"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/gangadhararaoande/Dev-Profiles?style=flat-square"></a>
 </p>
-<br/>
 <p align="center">
-  <a href="https://github.com/gangadhararaoande/Dev-Profiles/pulls">
-    <img alt="Version 1.2.0" src="https://img.shields.io/badge/Version-1.2.0-orange.svg">
-  </a>
   <a href="https://github.com/gangadhararaoande/Dev-Profiles/pulls">
     <img alt="PR:s Welcome" src="https://img.shields.io/badge/PR:s-welcome-brightgreen.svg">
   </a>
   <a href="https://github.com/gangadhararaoande/Dev-Profiles/pulls">
     <img alt="First Contributors" src="https://img.shields.io/badge/first-contributors-brightgreen.svg">
   </a>
-  <a href="https://allcontributors.org">
-    <img alt="All Contributors" src="https://img.shields.io/github/all-contributors/gangadhararaoande/Dev-Profiles/main">
-  </a>
 </p>
 
-<br/>
 <p align="center">
   <a href="https://github.com/gangadhararaoande"><img alt="Github - gangadhararaoande" src="https://img.shields.io/badge/GitHub-gangadhararaoande-181717?style=flat-square&logo=github"></a>
 </p>
-<br/>
 
 # [Contribute To This Project](https://github.com/gangadhararaoande/Dev-Profiles/)
 **Click on the [link](https://dev-profiles-gangadhararaoande.vercel.app) to see the live site!**
+
+## GitHub Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/d2fe09f3d738baa1974d46b4fe5d6e8398e9f78d.svg "Repobeats analytics image")
 
 ## Build With
 <p align="center">
@@ -51,7 +42,6 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   </a>
 </p>
-
 
 ## Introduction
 
@@ -78,5 +68,6 @@ Thanks go to these wonderful people:
   <img src="https://contrib.rocks/image?repo=gangadhararaoande/Dev-Profiles" />
 </a>
 
-
+## ⭐Stargazers
+[![Stargazers](http://bytecrank.com/nastyox/reporoster/php/stargazersSVG.php?user=gangadhararaoande&repo=Dev-Profiles)](https://github.com/gangadhararaoande/Dev-Profiles/stargazers)
 
