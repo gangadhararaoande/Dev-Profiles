@@ -232,7 +232,12 @@ section {
   .button:hover .button_lg::after {
     background-color: #fff;
   }
-
+#contributions-number{
+    color: #fa3d66;
+    transition: 2.8s;
+    font-weight: bold;
+    font-size: 36px;
+}
 /*Home section styling*/
 .home-content {
     text-align: center;
