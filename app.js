@@ -136,20 +136,4 @@ function setPageStyle(selectedPage) {
   });
 }
 
-// Display the number of contributions
-const contributionsDisplay=document.getElementById('contributions-number');
-const displayClass=document.getElementById('contributions-number').classList;
-let displayNumber=0;
-const countUp=()=>{
-  const numberOfContributors=(cardDetailsArray.length)-1 // minus the example card
-  setTimeout(()=>{
-    if(displayNumber<numberOfContributions){
-      displayNumber++;
-      contributionsDisplay.textContent=displaynumber;
-      countUp(;
-    }
-    if (displayNumber === numberOfContributiors){
-      displayClass.add('rubberBand')
-    }
-  },15)
-}
+
